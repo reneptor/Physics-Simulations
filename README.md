@@ -31,11 +31,11 @@ Set of related C++ simulations for diatomic molecules and thermostat-controlled 
 
 Lattice configurations, observable plots, and notebook-generated animations from the simulations are already committed in the repository:
 
-![Ising lattice near critical temperature](icing-model/output/latticeTcrit/50x50_lattice_plot.png)
+![Ising lattice near critical temperature](fig/ising_lattice_critical.png)
 
-![Ising lattice below critical temperature](icing-model/output/latticeTeq2/50x50_lattice_plot.png)
+![Ising lattice below critical temperature](fig/ising_lattice_low_temp.png)
 
-![Observable averages across lattice sizes](icing-model/output/varying_lattice_sizes/varying_sizes_plot.png)
+![Observable averages across lattice sizes](fig/ising_varying_sizes.png)
 
 ![Molecular dynamics animation](molecular-dynamics/media/molecular_dynamics.gif)
 
