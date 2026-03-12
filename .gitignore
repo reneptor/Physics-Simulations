@@ -2,3 +2,4 @@
 *.png
 !fig/
 !fig/*.png
+.ipynb_checkpoints/
