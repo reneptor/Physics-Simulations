@@ -1,0 +1,3 @@
+/home/alex_unix/csp25ex/ex01/build/CMakeFiles/ICING.dir
+/home/alex_unix/csp25ex/ex01/build/CMakeFiles/edit_cache.dir
+/home/alex_unix/csp25ex/ex01/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# Requirements for running the plots notebook
+
+matplotlib
+numpy
+ipython
